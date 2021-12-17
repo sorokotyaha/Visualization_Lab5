@@ -1,4 +1,4 @@
-# Visualization_Lab5
+# Visualization Lab5 and Lab6
 
 
 The charts are interactive - you can shove your mouse over the region and see its name and rate. Please, refer to jupyter notebook\html for accessing interactivity. The snapshoot of the final visualization:
